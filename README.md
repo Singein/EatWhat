@@ -18,7 +18,8 @@ eatwhat
 
 
 ## config the random options
-for windows users, the default config path is $HOME/appdata/local/EatWhat/random-options
+for windows users, the default config path is `$HOME/appdata/local/EatWhat/random-options`
+for Unix/Linux/MacOS users, the default config path is your homepath `~/.config/EatWhat/random-options`
 
 ```json
 {
